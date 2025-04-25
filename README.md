@@ -1,1 +1,1 @@
-# docs
+1. [Чек-лист для тестирования функций регистрации/авторизации и каталога товаров](https://docs.google.com/spreadsheets/d/1IJ7h7LfQWfK-2uNwDUnouZAbqrA1W7ywxlXiBOlEQnU/edit?gid=0#gid=0 "ссылка на чеклист")
